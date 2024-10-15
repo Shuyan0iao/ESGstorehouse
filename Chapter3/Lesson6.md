@@ -39,6 +39,3 @@ This section details global investments in energy transition by various countrie
 - **Carbon Pricing**: Both emission trading systems (ETS) and carbon taxes are recognized as effective tools for decarbonization.
 - **Internal Carbon Pricing**: Companies use shadow carbon pricing to assess future climate regulations and impacts on profitability.
 - **Carbon Offsetting**: Offsetting allows compensation for residual emissions, but it faces challenges in transparency and accuracy.
-
-## Conclusion
-The increasing integration of environmental considerations into financial frameworks, national policies, and corporate strategies underscores the critical need for coordinated global action to address climate change.
