@@ -1,4 +1,4 @@
-Definition of Natural Resources: Natural resources include freshwater, biodiversity, land use, forestry, and marine resources, as well as non-renewable resources like fossil fuels, minerals, and metals.
+*Definition of Natural Resources*: Natural resources include freshwater, biodiversity, land use, forestry, and marine resources, as well as non-renewable resources like fossil fuels, minerals, and metals.
 
 Natural Capital: Natural capital refers to the world's stock of natural assets that provide ecosystem services essential for human life, valued between $125 trillion and $140 trillion annually, highlighting its intrinsic and economic value.
 
