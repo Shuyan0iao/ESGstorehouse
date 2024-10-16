@@ -1,10 +1,7 @@
 # Assessment of Materiality of Environmental Issues
 
-## Learning Outcome:
-- Assess material impacts of environmental issues on investment opportunities, corporate and project finance, public finance initiatives, and asset management.
-
 ## Material Environmental Issues:
-- Material environmental issues significantly impact a company’s business model, affecting operating expenses, revenue, margins, and risk.
+- Material environmental issues significantly impact a company’s business model, affecting *operating expenses*, *revenue*, *margins*, and *risk*.
 - Materiality evolves with market changes, policy shifts, and consumer attitudes, such as how plastic pollution regulations impact oil demand.
 
 ## Investor Research and Materiality Analysis:
