@@ -1,19 +1,5 @@
 # Social and Environmental Megatrends Summary
 
-## Learning Outcomes
-1. **Understanding Relationships:** Explain the relationships between business activities and social issues, including:
-   - Globalization
-   - Automation and AI
-   - Inequality and wealth creation
-   - Digital disruption and access to technology
-   - Changes in work, leisure, education, and family structures
-   - Changing demographics and urbanization
-
-2. **Assessing Megatrends:** Evaluate key megatrends influencing social change, including:
-   - Climate change
-   - Water scarcity
-   - Pollution and loss of natural resources
-
 ## Social Megatrends
 - **Definition:** Long-term social changes that impact economies and societies over time.
 - **Key Megatrends:**
