@@ -1,0 +1,64 @@
+# Internal Social Factors
+
+## Learning Outcome
+**4.1.3** Explain key social concepts, including:
+- **Human Capital**: Development, employment standards, health, and safety.
+- **Product Liability/Consumer Protection**: Safety, quality, health risks, and data privacy.
+- **Stakeholder Opposition**: Controversial sourcing.
+- **Social Opportunities**: Access to communications, finance, health, and nutrition.
+- **Animal Welfare and Microbial Resistance**.
+
+## Overview
+This section reviews key internal social factors of interest for investors.
+
+### Human Capital Development
+- Long-term strategies should include workforce development to ensure:
+  - Skill adequacy.
+  - Compliance with standards.
+  - Employee motivation.
+- Good human capital management enhances competitiveness and employability.
+- **Investor Assessment Questions**:
+  - Are required skills identified?
+  - Is there a value proposition to attract and retain talent?
+  - Are there measures to monitor investments in human capital?
+
+### Working Conditions, Health, and Safety
+- Focuses on protecting the workforce from accidents and fatalities.
+- **Case Study: Rana Plaza Disaster (2013)**:
+  - Collapse resulted in 1,134 deaths, highlighting human rights abuses in the garment sector.
+  - Over 175 brands signed the Bangladesh Accord to improve safety standards.
+- Health and safety indicators should assess both permanent employees and contractors.
+
+### Human Rights
+- Fundamental rights include life, liberty, freedom from slavery, and the right to work and education.
+- **Key Guidelines**:
+  - **UN Guiding Principles on Business and Human Rights (UNGPs)**: Framework for corporate responsibility in human rights.
+  - **OECD Guidelines for Multinational Enterprises**: Recommendations for responsible business conduct.
+
+### Corporate Human Rights Benchmark (CHRB)
+- Provides a comparative snapshot of corporate human rights performance, focusing on governance, policy, and practices.
+
+### Human Rights 100+
+- A collaborative initiative for investors to address human rights and social issues in their stewardship activities.
+
+### Labor Rights
+- Compliance with **International Labor Standards** is essential for employee satisfaction and corporate culture.
+
+### Key Labor Rights Conventions
+1. **Freedom of Association and Protection of the Right to Organise**
+2. **Right to Organise and Collective Bargaining**
+3. **Forced Labour**
+4. **Minimum Age**
+5. **Discrimination (Employment and Occupation)**
+
+### Modern Slavery and Forced Labor
+- **Definition**: Exploitation a person cannot refuse or leave due to threats or coercion.
+- Significant issue within poorly regulated industries.
+- **UK Modern Slavery Act (2015)**: Legislation aimed at combating modern slavery.
+
+### Living Wage
+- Addresses insufficient wages in labor-intensive sectors.
+- **Platform Living Wage Financials (PLWF)**:
+  - Coalition of financial institutions monitoring living wage compliance.
+  - Engages with investee companies to support progress.
+
