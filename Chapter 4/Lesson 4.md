@@ -1,0 +1,44 @@
+# External Social Factors
+
+## Learning Outcome
+**4.1.3** Explain key social concepts, including:
+- **Human Capital**: Development, employment standards, health, and safety.
+- **Product Liability/Consumer Protection**: Safety, quality, health and demographic risks, data privacy and security.
+- **Stakeholder Opposition/Controversial Sourcing**.
+- **Social Opportunities**: Access to communications, finance, health, and nutrition.
+- **Animal Welfare and Antimicrobial Resistance**.
+
+## Overview
+This section reviews key external social factors of interest for investors.
+
+### Stakeholder Opposition and Controversial Sourcing
+- Companies should maintain good relationships with local communities to avoid political interference and disruptions.
+- **Free, Prior, and Informed Consent (FPIC)**:
+  - **Free**: No manipulation or coercion.
+  - **Prior**: Consent sought in advance of project initiation.
+  - **Informed**: Relevant information provided in understandable terms.
+  - **Consent**: Central participation and consultation.
+
+- **Controversial Sourcing**:
+  - Issues arise from suppliers in emerging economies with unethical practices, e.g., conflict minerals and blood diamonds.
+  - Investors need to be aware of these risks, as they can affect reputation and business.
+
+### Product Liability and Consumer Protection
+- **Consumer Protection**: Laws safeguarding consumer rights, emphasizing product safety and preventing deceptive marketing.
+- **Product Liability**: Legal responsibility for defective goods, which can lead to civil lawsuits and impact share prices.
+  - Types of product liability:
+    1. Design flaws.
+    2. Manufacturing defects.
+    3. Failure to warn consumers.
+- Reputational risks can arise from product recalls and consumer backlash, especially via social media.
+
+### Social Opportunities
+- Lack of social opportunities in developing countries is a critical issue linked to several Sustainable Development Goals (SDGs), focusing on health, education, energy, housing, and financial inclusion.
+- Investors, including development finance institutions and NGOs, are increasingly recognizing the business potential in addressing these needs.
+- **Access to Medicine Index**: Evaluates pharmaceutical companies on their efforts to improve access to medicine in low- and middle-income countries.
+
+### Animal Welfare and Antimicrobial Resistance
+- Growing concerns about animal welfare and its impact on human health due to intensive farming practices.
+- **Antimicrobial Resistance**: Results from bacteria and viruses becoming resistant to treatments, posing health risks.
+- **Farm Animal Investment Risk and Return (FAIRR)**: An initiative addressing the risks of intensive livestock production and its link to antimicrobial resistance, urging companies to improve their practices.
+
