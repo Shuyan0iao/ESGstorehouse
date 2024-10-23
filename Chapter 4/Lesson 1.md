@@ -23,3 +23,5 @@
   - Monitor corporate responses to social and environmental changes.
   - Consider investments in sectors addressing these megatrends.
   - Engage in shareholder initiatives promoting responsible practices, particularly in public health and environmental sustainability.
+
+
